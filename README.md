@@ -5,8 +5,8 @@ This app is intended to be a simple example of a CRUD app built with **Ruby on R
 
 This app uses:
 
-* Ruby version: `2.7`
-* Rails version: `6.0.3.4`
+* Ruby version: `3.0.1`
+* Rails version: `7.0.0`
 * Database: `postgresql`
 * React version: `16.12.0`
 * React Hooks API
